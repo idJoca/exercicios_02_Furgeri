@@ -1,0 +1,8 @@
+C:\Users\master\source\repos\exercicio_02\exercicio02_2\bin\Debug\exercicio02_2.exe.config
+C:\Users\master\source\repos\exercicio_02\exercicio02_2\bin\Debug\exercicio02_2.exe
+C:\Users\master\source\repos\exercicio_02\exercicio02_2\bin\Debug\exercicio02_2.pdb
+C:\Users\master\source\repos\exercicio_02\exercicio02_2\obj\Debug\exercicio02_2.Form1.resources
+C:\Users\master\source\repos\exercicio_02\exercicio02_2\obj\Debug\exercicio02_2.Properties.Resources.resources
+C:\Users\master\source\repos\exercicio_02\exercicio02_2\obj\Debug\exercicio_02_2.csproj.GenerateResource.cache
+C:\Users\master\source\repos\exercicio_02\exercicio02_2\obj\Debug\exercicio02_2.exe
+C:\Users\master\source\repos\exercicio_02\exercicio02_2\obj\Debug\exercicio02_2.pdb

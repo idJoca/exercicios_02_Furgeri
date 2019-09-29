@@ -1,0 +1,8 @@
+C:\Users\master\source\repos\exercicio_02\exercicio_02_3\obj\Debug\exercicio_02_3.Form1.resources
+C:\Users\master\source\repos\exercicio_02\exercicio_02_3\obj\Debug\exercicio_02_3.Properties.Resources.resources
+C:\Users\master\source\repos\exercicio_02\exercicio_02_3\obj\Debug\exercicio_02_3.csproj.GenerateResource.cache
+C:\Users\master\source\repos\exercicio_02\exercicio_02_3\bin\Debug\exercicio_02_3.exe.config
+C:\Users\master\source\repos\exercicio_02\exercicio_02_3\bin\Debug\exercicio_02_3.exe
+C:\Users\master\source\repos\exercicio_02\exercicio_02_3\bin\Debug\exercicio_02_3.pdb
+C:\Users\master\source\repos\exercicio_02\exercicio_02_3\obj\Debug\exercicio_02_3.exe
+C:\Users\master\source\repos\exercicio_02\exercicio_02_3\obj\Debug\exercicio_02_3.pdb

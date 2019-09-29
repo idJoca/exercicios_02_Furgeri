@@ -1,0 +1,9 @@
+C:\Users\master\source\repos\exercicio_02\exercicio_02_1\bin\Debug\exercicio_02_1.exe.config
+C:\Users\master\source\repos\exercicio_02\exercicio_02_1\bin\Debug\exercicio_02_1.exe
+C:\Users\master\source\repos\exercicio_02\exercicio_02_1\bin\Debug\exercicio_02_1.pdb
+C:\Users\master\source\repos\exercicio_02\exercicio_02_1\obj\Debug\exercicio_02_1.csprojAssemblyReference.cache
+C:\Users\master\source\repos\exercicio_02\exercicio_02_1\obj\Debug\exercicio_02_1.Form1.resources
+C:\Users\master\source\repos\exercicio_02\exercicio_02_1\obj\Debug\exercicio_02_1.Properties.Resources.resources
+C:\Users\master\source\repos\exercicio_02\exercicio_02_1\obj\Debug\exercicio_02_1.csproj.GenerateResource.cache
+C:\Users\master\source\repos\exercicio_02\exercicio_02_1\obj\Debug\exercicio_02_1.exe
+C:\Users\master\source\repos\exercicio_02\exercicio_02_1\obj\Debug\exercicio_02_1.pdb
